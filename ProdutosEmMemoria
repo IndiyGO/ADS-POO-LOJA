@@ -1,0 +1,5 @@
+public class ProdutosEmMemoria {
+	
+	public static Map<String, Produto> produtos = new HashMap<String, Produto>();
+	
+}
